@@ -1,0 +1,34 @@
+/**
+*@author Izabella Cruz
+*created: 2/10/20
+*description: This program will calculate the BMI of 3 users
+*/
+
+import java.util.Scanner;
+public class Week3 {
+public static void main (String[] args) {
+
+Scanner = new (System.in);
+
+  int Maria;
+  int David;
+  int Joe;
+  int weight;
+  int height;
+
+System.out.printInt (703 * (weight / height));
+weight = scnr.nextInt();
+height = scnr.nextInt();
+
+System.out.println ("User   |   BMI");
+
+System.out.println ("Maria      " + Maria);
+Maria = scnr.nextInt (24.1);
+
+System.out.println ("David      " + David);
+David = scnr.nextInt (27);
+
+System = scnr.nextln ("Joe     " + Joe);
+Joe = scnr.nextInt (21);
+
+System.out.println ("The weight and height of Maria is ");
